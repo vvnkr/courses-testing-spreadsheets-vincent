@@ -1,0 +1,5 @@
+title: Course Title Here
+description: A description of the course.
+programming_language: spreadsheets
+from: 'r-base-prod:v1.0.2' # from: is needed but this can be ignored
+#from: 'tidyverse-base-prod:v1.0.2'
